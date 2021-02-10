@@ -1,7 +1,7 @@
 <template>
   <section>
     <base-card>
-      <h2>Submitted Experiences</h2>
+      <h2>Submitted Reviews</h2>
       <div>
         <base-button @click="loadReviews()">Load Reviews </base-button>
       </div>
